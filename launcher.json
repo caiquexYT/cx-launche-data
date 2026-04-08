@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "mandatory": false,
+  "downloadUrl": "https://your-host.com/releases/CxLauncher-1.0.1-Setup.exe",
+  "changelog": "Fixed login flow and improved performance.",
+  "patches": {
+    "announcement": "Server maintenance scheduled for Saturday 20:00 UTC.",
+    "customProperties": {
+      "--accent": "#ff6600",
+      "--border": "rgba(255, 102, 0, 0.15)"
+    },
+    "featureFlags": {
+      "showDiscordPresence": true
+    }
+  }
+}
