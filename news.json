@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "news-001",
+      "title": "CX Client 1.2.0 released!",
+      "date": "2026-04-08",
+      "author": {
+        "name": "CX Team",
+        "avatar": "https://your-host.com/avatars/cx-team.png"
+      },
+      "content": "<p>We're excited to announce <strong>CX Client 1.2.0</strong>!</p>",
+      "tags": ["update", "info"],
+      "image": "https://your-host.com/news/banner-120.png"
+    }
+  ]
+}
