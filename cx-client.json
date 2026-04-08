@@ -1,0 +1,16 @@
+{
+  "version": "1.2.0",
+  "releaseDate": "2026-04-08",
+  "changelog": "Improved rendering and fixed crash on 1.8.9 servers.",
+  "files": [
+    {
+      "name": "CXClient-1.2.0.jar",
+      "url": "https://your-host.com/releases/CXClient-1.2.0.jar",
+      "sha256": "optional-hash-for-future-integrity-check"
+    },
+    {
+      "name": "CXClient-config.zip",
+      "url": "https://your-host.com/releases/CXClient-config.zip"
+    }
+  ]
+}
