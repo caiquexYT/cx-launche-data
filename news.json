@@ -2,15 +2,15 @@
   "articles": [
     {
       "id": "news-001",
-      "title": "CX Client 1.2.0 released!",
+      "title": "CX Client kkkkkk 1.2.0 released!",
       "date": "2026-04-08",
       "author": {
         "name": "CX Team",
-        "avatar": "https://your-host.com/avatars/cx-team.png"
+        "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce0594ed-71df-44c0-9de2-908eac79900f/dh4nptn-726024a8-a800-4493-9042-f206b3208b92.jpg/v1/fill/w_1920,h_1920,q_75,strp/_commission__fly_minecraft_avatar_by_anjiroakino04_dh4nptn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiIvZi9jZTA1OTRlZC03MWRmLTQ0YzAtOWRlMi05MDhlYWM3OTkwMGYvZGg0bnB0bi03MjYwMjRhOC1hODAwLTQ0OTMtOTA0Mi1mMjA2YjMyMDhiOTIuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.auScjFHEKfEYJ_UCrmFtzeS4BorIyegSPf2bocjjNgk"
       },
       "content": "<p>We're excited to announce <strong>CX Client 1.2.0</strong>!</p>",
       "tags": ["update", "info"],
-      "image": "https://your-host.com/news/banner-120.png"
+      "image": "https://www.9minecraft.net/wp-content/uploads/2024/11/Flap-Client.jpg"
     }
   ]
 }
